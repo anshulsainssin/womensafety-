@@ -1,0 +1,59 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women safety </title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+
+        
+    </style>
+    
+</head>
+<body class="p-2 m-2 ">
+<div class="bg-gray-500 p-2" style="display: flex; align-items: center; justify-content: space-between;">
+  <div>Home</div>
+  <div style="display: flex; align-items: center;">
+    <p style="margin-right: 8px;">मदद के लिए कॉल करें</p>
+    <a href="tel:+91 1090">
+      <img class="p-2" src="https://cdn-icons-png.flaticon.com/128/5585/5585856.png" alt="Phone Icon" style="width: 40px; height: 40px;" />
+    </a>
+  </div>
+</div>
+   
+   
+   
+     
+     <a href="https://imgbb.com/"><img class="mb-2 " src="https://i.ibb.co/KjpCd501/stop-violence-against-women.jpg" alt="stop-violence-against-women" border="0"></a>
+     <p class="text-gray-500 text-center mb-5">महिला एवं बाल सुरक्षा के बारे में सहारनपुर के सहायक सभी लोगों अथवा संस्थाओं के बारे में जानें</p>
+     <div class="items-center text-gray-600 text-center">
+       <p class="">ब्लॉक*</p>
+ <select class="p-2  text-lg w-full mb-4 rounded-xl">
+   <option selected disabled>विकल्प चुनें</option>
+   <option > सढोली कदीम	</option>
+   <option> मुज़फ़्फ़राबाद</option>
+     <option> पुंवारका</option>
+   <option> बलियाखेड़ी</option>
+    <option>नानौता </option>
+   <option> देवबंद</option>
+     <option> रामपुर</option>
+   <option>नागल </option>
+   <option>नकुड़</option>
+   <option>सरसांवा</option>
+   <option>गंगोह</option>
+   <option>सहारनपुर</option>
+ </select>
+ 
+ </div>
+ <div>
+   <button class="rounded-xl bg-red-700 
+p-2  text-lg w-full">मदद ढूंढें</button>
+ </div>
+ 
+</body>
+</html>
+
